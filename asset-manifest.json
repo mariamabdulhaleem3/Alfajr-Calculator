@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Alfajr/static/css/main.1ca33a2e.css",
+    "main.js": "/Alfajr/static/js/main.2dc5e8c6.js",
+    "static/js/453.b5a585d9.chunk.js": "/Alfajr/static/js/453.b5a585d9.chunk.js",
+    "static/media/Untitled-1-Recovered-Recovered-Recovered copy.png": "/Alfajr/static/media/Untitled-1-Recovered-Recovered-Recovered copy.7fc23757d60745795eb0.png",
+    "static/media/calculator.png": "/Alfajr/static/media/calculator.d84c725e524684569e08.png",
+    "index.html": "/Alfajr/index.html",
+    "main.1ca33a2e.css.map": "/Alfajr/static/css/main.1ca33a2e.css.map",
+    "main.2dc5e8c6.js.map": "/Alfajr/static/js/main.2dc5e8c6.js.map",
+    "453.b5a585d9.chunk.js.map": "/Alfajr/static/js/453.b5a585d9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ca33a2e.css",
+    "static/js/main.2dc5e8c6.js"
+  ]
+}
