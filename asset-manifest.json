@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Alfajr-Calculator/static/css/main.1ca33a2e.css",
-    "main.js": "/Alfajr-Calculator/static/js/main.c72ddf2a.js",
+    "main.js": "/Alfajr-Calculator/static/js/main.d7c952c0.js",
     "static/js/453.b5a585d9.chunk.js": "/Alfajr-Calculator/static/js/453.b5a585d9.chunk.js",
     "static/media/Untitled-1-Recovered-Recovered-Recovered copy.png": "/Alfajr-Calculator/static/media/Untitled-1-Recovered-Recovered-Recovered copy.7fc23757d60745795eb0.png",
     "static/media/calculator.png": "/Alfajr-Calculator/static/media/calculator.d84c725e524684569e08.png",
     "index.html": "/Alfajr-Calculator/index.html",
     "main.1ca33a2e.css.map": "/Alfajr-Calculator/static/css/main.1ca33a2e.css.map",
-    "main.c72ddf2a.js.map": "/Alfajr-Calculator/static/js/main.c72ddf2a.js.map",
+    "main.d7c952c0.js.map": "/Alfajr-Calculator/static/js/main.d7c952c0.js.map",
     "453.b5a585d9.chunk.js.map": "/Alfajr-Calculator/static/js/453.b5a585d9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1ca33a2e.css",
-    "static/js/main.c72ddf2a.js"
+    "static/js/main.d7c952c0.js"
   ]
 }
